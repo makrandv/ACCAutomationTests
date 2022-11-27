@@ -25,9 +25,8 @@ Test Development**
 - Followed BDD approach for creating UI and API tests
 - Webelements identification was parameterized so that they can be used across multiple search categories (e.g. Cars , Motorbikes) and also across multiple search options (e.g. Make, Style ,Location)
 - Created helper class for setting up the web driver for selenium
-- 
-Test Execution**
 
+Test Execution**
 From the Command Line
 - Run command - mvn test
 From IntelliJ
